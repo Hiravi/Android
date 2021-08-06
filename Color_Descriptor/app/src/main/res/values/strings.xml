@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Color Descriptor</string>
+    
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+    
+    <string-array name="character_description">
+        <item>*Some description</item>
+        <item>*Some description</item>
+        <item>*Some description</item>
+        <item>*Some description</item>
+        <item>*Some description</item>
+    </string-array>
+    <string name="button_pick_character">Pick</string>
+</resources>

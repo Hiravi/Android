@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VKInfo</string>
+    <string name="et_id_hint">Enter vk id...</string>
+    <string name="button_search">Search</string>
+    <string name="tv_result">Result will be here</string>
+    <string name="button_send_id">Send</string>
+    <string name="error_message">Error. Try again!</string>
+</resources>
